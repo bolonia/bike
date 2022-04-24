@@ -1,0 +1,30 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g opacity="0.1" clip-path="url(#clip0)">
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M374.813 582C256.9 582 337.313 470.5 245.313 368C153.313 265.5 256.9 155 374.813 155C492.726 155 562.313 284 506.313 395C450.313 506 492.726 582 374.813 582Z"
+              stroke="white" stroke-width="2" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M289.924 970.699C428.01 841.931 212.207 799.311 208.132 578.935C204.057 358.559 -37.7947 342.416 -175.881 471.184C-313.968 599.952 -254.737 826.852 -68.0689 895.548C118.6 964.243 151.837 1099.47 289.924 970.699Z"
+              stroke="white" stroke-width="2" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M19.1868 350C137.1 350 100 236.5 192 134C284 31.5005 137.1 -76.9995 19.1868 -76.9995C-98.726 -76.9995 -168.313 52.0005 -112.313 163C-56.3132 274 -98.726 350 19.1868 350Z"
+              stroke="white" stroke-width="2" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M217.5 199C221.642 199 225 195.642 225 191.5C225 187.358 221.642 184 217.5 184C213.358 184 210 187.358 210 191.5C210 195.642 213.358 199 217.5 199Z"
+              stroke="white" stroke-width="2" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M237 84.0005C238.657 84.0005 240 82.6573 240 81.0005C240 79.3436 238.657 78.0005 237 78.0005C235.343 78.0005 234 79.3436 234 81.0005C234 82.6573 235.343 84.0005 237 84.0005Z"
+              stroke="white" stroke-width="2" stroke-linejoin="round"/>
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M102 421C103.657 421 105 419.656 105 418C105 416.343 103.657 415 102 415C100.343 415 99 416.343 99 418C99 419.656 100.343 421 102 421Z"
+              fill="white"/>
+        <path fill-rule="evenodd" clip-rule="evenodd"
+              d="M361.187 98.999C479.099 98.999 398.687 -12.501 490.687 -115.001C582.687 -217.501 479.099 -328.001 361.187 -328.001C243.274 -328.001 149 -131.001 205 -20.001C233.521 36.5323 252 25.999 285 35.999C318 45.999 303.328 99.0014 361.187 98.999Z"
+              stroke="white" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <defs>
+        <clipPath id="clip0">
+            <rect width="375" height="812" fill="white"/>
+        </clipPath>
+    </defs>
+</svg>
