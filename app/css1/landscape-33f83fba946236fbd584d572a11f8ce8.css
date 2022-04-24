@@ -1,0 +1,55 @@
+@charset "utf-8";
+
+@media only screen and (orientation: landscape) {
+
+.tel2-tel-wrap .tel-bg {
+	opacity: 1!important;
+}
+.section-pics .pics__bg {
+	background-image: url(../img/all-04944187c274c925109cf8feee1e0ea3.jpg);
+}
+.section-pics.is-bounce .pic-place.pos27 .in > * > * {
+	-webkit-animation-name: cardenter;
+	        animation-name: cardenter;
+	-webkit-animation-duration: 1s;
+	        animation-duration: 1s;
+	-webkit-animation-iteration-count: 1;
+	        animation-iteration-count: 1;
+	-webkit-animation-fill-mode: forwards;
+	        animation-fill-mode: forwards;
+}
+.section-pics.hide-bounce .pic-place.pos27 .in > * > * {
+	-webkit-animation: none;
+	        animation: none;
+	display: none;
+}
+.section-tel2.is-bounce .tel2-tel-wrap {
+	-webkit-animation-name: telenter;
+	        animation-name: telenter;
+	-webkit-animation-duration: 1s;
+	        animation-duration: 1s;
+	-webkit-animation-iteration-count: 1;
+	        animation-iteration-count: 1;
+	-webkit-animation-fill-mode: forwards;
+	        animation-fill-mode: forwards;
+	-webkit-transform-origin: 50% 94%;
+	        transform-origin: 50% 94%;
+	-webkit-transform: translate3d(0, 0, 0) rotate(0deg);
+	        transform: translate3d(0, 0, 0) rotate(0deg);
+}
+.section-tel2.hide-bounce .tel2-tel-wrap {
+	-webkit-animation: none;
+	        animation: none;
+}
+.section-tel2.is-rotate .tel2-tel-wrap .tel-screen > *:not(.end) {
+	display: none;
+}
+.section-tel2.is-scaled .tel2-tel-wrap .tel-screen > *:not(.screen5) {
+	opacity: 0;
+}
+.section-tel2.is-rotate-back .tel2-tel-wrap .tel-screen .screen5 {
+	-webkit-transition: opacity 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+	transition: opacity 0.5s cubic-bezier(0.645, 0.045, 0.355, 1);
+	opacity: 1;
+}
+}
