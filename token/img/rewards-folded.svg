@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="326px" height="863px" viewBox="0 0 326 863" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>rewards-folded</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="325.385" height="308.887"></rect>
+        <radialGradient cx="28.1286269%" cy="19.7915339%" fx="28.1286269%" fy="19.7915339%" r="83.1375774%" gradientTransform="translate(0.281286,0.197915),scale(0.999999,1.000000),rotate(74.744896),translate(-0.281286,-0.197915)" id="radialGradient-3">
+            <stop stop-color="#48AB33" offset="0%"></stop>
+            <stop stop-color="#BBEAB1" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1300698%" cy="19.7916995%" fx="28.1300698%" fy="19.7916995%" r="83.1377939%" gradientTransform="translate(0.281301,0.197917),scale(1.000000,0.999999),rotate(74.744906),translate(-0.281301,-0.197917)" id="radialGradient-4">
+            <stop stop-color="#77D563" offset="0%"></stop>
+            <stop stop-color="#4AA736" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1251945%" cy="19.7924605%" fx="28.1251945%" fy="19.7924605%" r="83.1375774%" gradientTransform="translate(0.281252,0.197925),scale(0.999999,1.000000),rotate(74.744896),translate(-0.281252,-0.197925)" id="radialGradient-5">
+            <stop stop-color="#48AB33" offset="0%"></stop>
+            <stop stop-color="#BBEAB1" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1252371%" cy="19.7925971%" fx="28.1252371%" fy="19.7925971%" r="83.1377939%" gradientTransform="translate(0.281252,0.197926),scale(1.000000,0.999999),rotate(74.744906),translate(-0.281252,-0.197926)" id="radialGradient-6">
+            <stop stop-color="#77D563" offset="0%"></stop>
+            <stop stop-color="#4AA736" offset="100%"></stop>
+        </radialGradient>
+        <rect id="path-7" x="0" y="0" width="325" height="559"></rect>
+        <radialGradient cx="28.1250574%" cy="19.7924824%" fx="28.1250574%" fy="19.7924824%" r="83.2404704%" gradientTransform="translate(0.281251,0.197925),scale(1.000000,0.998671),rotate(74.764233),translate(-0.281251,-0.197925)" id="radialGradient-9">
+            <stop stop-color="#48AB33" offset="0%"></stop>
+            <stop stop-color="#BBEAB1" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1251832%" cy="19.7864277%" fx="28.1251832%" fy="19.7864277%" r="83.2408039%" gradientTransform="translate(0.281252,0.197864),scale(1.000000,0.998669),rotate(74.764243),translate(-0.281252,-0.197864)" id="radialGradient-10">
+            <stop stop-color="#77D563" offset="0%"></stop>
+            <stop stop-color="#4AA736" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1286078%" cy="19.7924527%" fx="28.1286078%" fy="19.7924527%" r="83.240586%" gradientTransform="translate(0.281286,0.197925),scale(1.000000,0.998670),rotate(74.764237),translate(-0.281286,-0.197925)" id="radialGradient-11">
+            <stop stop-color="#48AB33" offset="0%"></stop>
+            <stop stop-color="#BBEAB1" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1238853%" cy="19.7926277%" fx="28.1238853%" fy="19.7926277%" r="83.2408039%" gradientTransform="translate(0.281239,0.197926),scale(1.000000,0.998669),rotate(74.764243),translate(-0.281239,-0.197926)" id="radialGradient-12">
+            <stop stop-color="#77D563" offset="0%"></stop>
+            <stop stop-color="#4AA736" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1285864%" cy="19.7924653%" fx="28.1285864%" fy="19.7924653%" r="83.2404704%" gradientTransform="translate(0.281286,0.197925),scale(1.000000,0.998671),rotate(74.764233),translate(-0.281286,-0.197925)" id="radialGradient-13">
+            <stop stop-color="#48AB33" offset="0%"></stop>
+            <stop stop-color="#BBEAB1" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1238847%" cy="19.7864267%" fx="28.1238847%" fy="19.7864267%" r="83.2408039%" gradientTransform="translate(0.281239,0.197864),scale(1.000000,0.998669),rotate(74.764243),translate(-0.281239,-0.197864)" id="radialGradient-14">
+            <stop stop-color="#77D563" offset="0%"></stop>
+            <stop stop-color="#4AA736" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1251945%" cy="19.7924606%" fx="28.1251945%" fy="19.7924606%" r="83.2404704%" gradientTransform="translate(0.281252,0.197925),scale(1.000000,0.998671),rotate(74.764233),translate(-0.281252,-0.197925)" id="radialGradient-15">
+            <stop stop-color="#48AB33" offset="0%"></stop>
+            <stop stop-color="#BBEAB1" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="28.1244681%" cy="19.7926378%" fx="28.1244681%" fy="19.7926378%" r="83.2408039%" gradientTransform="translate(0.281245,0.197926),scale(1.000000,0.998669),rotate(74.764243),translate(-0.281245,-0.197926)" id="radialGradient-16">
+            <stop stop-color="#77D563" offset="0%"></stop>
+            <stop stop-color="#4AA736" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="rewards-folded">
+            <g id="Clipped">
+                <g id="Group-Clipped">
+                    <g>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path-1"></g>
+                        <g id="Group" mask="url(#mask-2)">
+                            <g transform="translate(10.000000, -4.000000)">
+                                <g>
+                                    <g>
+                                        <path d="M433.787,79.1597 L105.159,79.1597 C83.068,79.1597 65.1594,97.0683 65.1594,119.16 L65.1594,456.661 C65.1594,478.753 83.068,496.661 105.159,496.661 L482.203,496.661" id="Path" stroke="#999CB8" stroke-linecap="round" stroke-dasharray="3,16"></path>
+                                        <path d="M137.24,111.24 L430.975,111.24 C450.968,111.24 467.89,126.002 470.604,145.81 L508.058,419.151 C511.35,443.176 492.678,464.581 468.428,464.581 L137.24,464.581 C115.148,464.581 97.24,446.672 97.24,424.581 L97.24,151.24 C97.24,129.148 115.148,111.24 137.24,111.24 Z" id="Path" fill="#F5F5FE"></path>
+                                        <path d="M439.785,47.0791 L93.079,47.0791 C59.9421,47.0791 33.0792,73.942 33.0792,107.079 L33.0792,469.199 C33.0792,502.337 59.9421,529.199 93.079,529.199 L493.202,529.199" id="Path" stroke="#999CB8" stroke-linecap="round" stroke-dasharray="3,16"></path>
+                                        <path d="M407.705,14.999 L80.9989,14.999 C36.8162,14.999 0.999,50.8162 0.999,94.999 L0.999,909.322 C0.999,953.505 36.8162,989.322 80.999,989.322 L461.121,989.322" id="Path" stroke="#999CB8" stroke-linecap="round" stroke-dasharray="3,16"></path>
+                                        <g transform="translate(170.000000, 0.000000)">
+                                            <rect id="Rectangle" fill="#77D563" x="1.483" y="4" width="21.9979" height="21.9979" rx="10.9989"></rect>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.106 7.79248 11.316 0.82441 12.064 6.83505 5.165 11.12309"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.312 9.56592 0.642 8.92041 5.418 11.72169 5.431 11.90459"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="12.324 2.16699 13.048 2.19399 12.518 7.70619 12.357 7.79437"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.128 21.5024 13.918 28.4705 13.171 22.4599 20.069 18.1718"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="24.922 19.729 24.593 20.3745 19.816 17.5732 19.803 17.3903"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="12.91 27.1279 12.186 27.1009 12.716 21.5887 12.877 21.5006"></polygon>
+                                            <ellipse id="Oval" fill="url(#radialGradient-3)" cx="12.481" cy="14.9989" rx="8.79916" ry="8.79915"></ellipse>
+                                            <ellipse id="Oval" fill="url(#radialGradient-4)" cx="12.481" cy="14.999" rx="8.06589" ry="8.0659"></ellipse>
+                                        </g>
+                                        <g transform="translate(20.000000, 108.000000)">
+                                            <rect id="Rectangle" fill="#77D563" x="2.0803" y="4.156" width="21.9979" height="21.9979" rx="10.9989"></rect>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.7042 7.949 11.9136 0.981 12.6613 6.991 5.7632 11.279"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.91 9.722 1.2393 9.077 6.0162 11.878 6.0285 12.061"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="12.9221 2.323 13.6462 2.35 13.1159 7.862 12.9552 7.951"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.7255 21.659 14.516 28.627 13.7683 22.616 20.6665 18.328"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.5196 19.885 25.1903 20.531 20.4134 17.729 20.4011 17.547"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="13.5077 27.284 12.7835 27.257 13.3138 21.745 13.4745 21.657"></polygon>
+                                            <ellipse id="Oval" fill="url(#radialGradient-5)" cx="13.0792" cy="15.155" rx="8.79916" ry="8.79915"></ellipse>
+                                            <ellipse id="Oval" fill="url(#radialGradient-6)" cx="13.0792" cy="15.155" rx="8.06589" ry="8.0659"></ellipse>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Clipped" transform="translate(0.000000, 309.000000)">
+                <g id="Group-Clipped">
+                    <g>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="path-7"></g>
+                        <g id="Group" mask="url(#mask-8)">
+                            <g transform="translate(-2.000000, -198.000000)">
+                                <g>
+                                    <g>
+                                        <path d="M445.787,64.9864181 L117.159,64.9864181 C95.068,64.9864181 77.1594,82.919265 77.1594,105.03968 L77.1594,313.122386 C77.1594,335.242802 95.068,353.175648 117.159,353.175648 L494.203,353.175648" id="Path" stroke="#999CB8" stroke-linecap="round" stroke-dasharray="3,16"></path>
+                                        <path d="M149.24,98.0263542 L416.714,98.0263542 C435.784,98.0263542 452.202,111.50628 455.938,130.23118 L484.643,274.067451 C489.589,298.850407 470.658,321.970152 445.419,321.970152 L149.24,321.970152 C127.148,321.970152 109.24,304.037305 109.24,281.916889 L109.24,138.079617 C109.24,115.959201 127.148,98.0263542 149.24,98.0263542 Z" id="Path" fill="#F5F5FE"></path>
+                                        <path d="M149.24,417.421081 L416.714,417.421081 C435.784,417.421081 452.202,430.900005 455.938,449.624905 L484.643,593.462178 C489.589,618.245134 470.658,641.363877 445.419,641.363877 L149.24,641.363877 C127.148,641.363877 109.24,623.431031 109.24,601.310615 L109.24,457.474344 C109.24,435.352927 127.148,417.421081 149.24,417.421081 Z" id="Path" fill="#F5F5FE"></path>
+                                        <path d="M445.787,385.298365 L117.159,385.298365 C95.068,385.298365 77.1594,403.23021 77.1594,425.351627 L77.1594,633.433332 C77.1594,655.554748 95.068,673.486594 117.159,673.486594 L494.203,673.486594" id="Path" stroke="#999CB8" stroke-linecap="round" stroke-dasharray="3,16"></path>
+                                        <path d="M451.785,32.8627004 L105.079,32.8627004 C71.9421,32.8627004 45.0792,59.76147 45.0792,92.9425939 L45.0792,645.529417 C45.0792,678.711542 71.9421,705.610312 105.079,705.610312 L505.202,705.610312" id="Path" stroke="#999CB8" stroke-linecap="round" stroke-dasharray="3,16"></path>
+                                        <path d="M419.705,0.739984021 L92.9989,0.739984021 C48.8162,0.739984021 12.999,36.6046764 12.999,80.8465087 L12.999,657.626503 C12.999,701.868336 48.8162,737.733028 92.999,737.733028 L473.121,737.733028" id="Path" stroke="#999CB8" stroke-linecap="round" stroke-dasharray="3,16"></path>
+                                        <g transform="translate(0.000000, 366.487350)">
+                                            <rect id="Rectangle" fill="#77D563" x="2" y="3.20826631" width="21.9979" height="22.0271915" rx="10.9989"></rect>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.6239 7.00531558 11.83339 0.0280372836 12.5811 6.04704128 5.68293 10.340751"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.82977 8.78167776 1.159074 8.13481758 5.93594 10.9395473 5.94828 11.1227909"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="12.8418 1.37282557 13.5659 1.39986152 13.0357 6.91920107 12.8749 7.00731824"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.6453 20.7335712 14.4358 27.7108495 13.6881 21.6918455 20.5862 17.3981358"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.4393 18.9582104 25.11 19.6040692 20.3332 16.7993395 20.3208 16.6160959"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="13.4274 26.3670626 12.7033 26.3400266 13.2336 20.8196858 13.3943 20.7315686"></polygon>
+                                            <ellipse id="Oval" fill="url(#radialGradient-9)" cx="12.9989" cy="14.2209108" rx="8.79916" ry="8.81086658"></ellipse>
+                                            <ellipse id="Oval" fill="url(#radialGradient-10)" cx="12.9989" cy="14.2219121" rx="8.06589" ry="8.07664021"></ellipse>
+                                        </g>
+                                        <g transform="translate(248.000000, 722.961385)">
+                                            <rect id="Rectangle" fill="#77D563" x="1.476" y="3.75799734" width="21.9979" height="22.0271915" rx="10.9989"></rect>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.1 7.5550466 11.31 0.577768309 12.057 6.5967723 5.159 10.890482"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.306 9.33140879 0.635 8.6845486 5.412 11.4902796 5.425 11.6735233"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="12.318 1.92255659 13.042 1.94959254 12.512 7.46893209 12.351 7.55704927"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.122 21.2833023 13.912 28.2605806 13.164 22.2425779 20.062 17.9488682"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="24.916 19.5079414 24.586 20.1538003 19.809 17.3490706 19.797 17.1658269"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="12.904 26.9167936 12.18 26.8897577 12.71 21.3704181 12.871 21.2812996"></polygon>
+                                            <ellipse id="Oval" fill="url(#radialGradient-11)" cx="12.475" cy="14.7716431" rx="8.79915" ry="8.81086658"></ellipse>
+                                            <ellipse id="Oval" fill="url(#radialGradient-12)" cx="12.475" cy="14.7716431" rx="8.06589" ry="8.07664021"></ellipse>
+                                        </g>
+                                        <g transform="translate(156.000000, 338.450067)">
+                                            <rect id="Rectangle" fill="#77D563" x="1.818" y="3.71193609" width="21.9979" height="22.0271915" rx="10.9989"></rect>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.442 7.50898535 11.652 0.531707057 12.399 6.55071105 5.501 10.8444208"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.648 9.28434621 0.977 8.63848735 5.754 11.443217 5.767 11.6264607"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="12.66 1.87649534 13.384 1.90353129 12.854 7.42287084 12.693 7.51098802"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.464 21.237241 14.254 28.2145193 13.506 22.1955153 20.405 17.9018056"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.258 19.4618802 24.928 20.107739 20.152 17.3030093 20.139 17.1197656"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="13.246 26.869731 12.522 26.8426951 13.052 21.3233555 13.213 21.2352383"></polygon>
+                                            <ellipse id="Oval" fill="url(#radialGradient-13)" cx="12.817" cy="14.7245806" rx="8.79916" ry="8.81086658"></ellipse>
+                                            <ellipse id="Oval" fill="url(#radialGradient-14)" cx="12.817" cy="14.7255819" rx="8.06589" ry="8.07664021"></ellipse>
+                                        </g>
+                                        <g transform="translate(64.000000, 491.653795)">
+                                            <rect id="Rectangle" fill="#77D563" x="2.1605" y="3.78002663" width="21.9979" height="22.0271915" rx="10.9989"></rect>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.7844 7.5770759 11.9939 0.599797603 12.7416 6.6188016 5.8435 10.9125113"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="0.9903 9.35343808 1.3196 8.7065779 6.0965 11.5123089 6.1088 11.6945513"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="13.0023 1.94458589 13.7265 1.97162184 13.1962 7.49096138 13.0355 7.57907856"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.8058 21.3053316 14.5963 28.2826099 13.8486 22.2646072 20.7468 17.9708975"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="25.5999 19.5299707 25.2706 20.1758296 20.4937 17.3710999 20.4813 17.1878562"></polygon>
+                                            <polygon id="Path" fill="#FFFFFF" opacity="0.3" points="13.588 26.9388229 12.8638 26.911787 13.3941 21.3924474 13.5548 21.3033289"></polygon>
+                                            <ellipse id="Oval" fill="url(#radialGradient-15)" cx="13.1594" cy="14.7936724" rx="8.79916" ry="8.81086658"></ellipse>
+                                            <ellipse id="Oval" fill="url(#radialGradient-16)" cx="13.1595" cy="14.7936724" rx="8.06589" ry="8.07664021"></ellipse>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
